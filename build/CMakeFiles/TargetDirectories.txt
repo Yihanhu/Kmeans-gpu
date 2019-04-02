@@ -1,0 +1,3 @@
+C:/Users/z7qian/Downloads/project_kmeans_v5/project_kmeans/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/z7qian/Downloads/project_kmeans_v5/project_kmeans/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/z7qian/Downloads/project_kmeans_v5/project_kmeans/build/Src/kmeans/CMakeFiles/kmeans.dir

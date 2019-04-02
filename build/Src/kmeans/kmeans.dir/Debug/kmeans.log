@@ -1,0 +1,60 @@
+﻿  Building NVCC (Device) object Src/kmeans/CMakeFiles/kmeans.dir/Debug/kmeans_generated_kmeans.cu.obj
+  kmeans.cu
+C:/Users/z7qian/Downloads/project_kmeans_v5/project_kmeans/Src/kmeans/kmeans.cu(25): warning : variable "s_mean" was declared but never referenced
+  
+C:/Users/z7qian/Downloads/project_kmeans_v5/project_kmeans/Src/kmeans/kmeans.cu(27): warning : variable "tid" was declared but never referenced
+  
+  ptxas info    : 79136 bytes gmem, 72 bytes cmem[3]
+  ptxas info    : Compiling entry function '_Z10label_initPiS_P17curandStateXORWOW' for 'sm_52'
+  ptxas info    : Function properties for _Z10label_initPiS_P17curandStateXORWOW
+      6496 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+  ptxas info    : Used 120 registers, 344 bytes cmem[0]
+  ptxas info    : Function properties for cudaDeviceGetAttribute
+      0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+  ptxas info    : Function properties for __fAtomicAdd
+      0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+  ptxas info    : Function properties for _ZN64_INTERNAL_42_tmpxft_000080f4_00000000_10_kmeans_cpp1_ii_5558a91d9atomicAddEPii
+      8 bytes stack frame, 8 bytes spill stores, 8 bytes spill loads
+  ptxas info    : Compiling entry function '_Z6updatePfS_Pi' for 'sm_52'
+  ptxas info    : Function properties for _Z6updatePfS_Pi
+      0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+  ptxas info    : Used 23 registers, 344 bytes cmem[0]
+  ptxas info    : Function properties for cudaMalloc
+      8 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+  ptxas info    : Function properties for clock
+      0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+  ptxas info    : Function properties for cudaOccupancyMaxActiveBlocksPerMultiprocessor
+      0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+  ptxas info    : Compiling entry function '_Z6dividePfPi' for 'sm_52'
+  ptxas info    : Function properties for _Z6dividePfPi
+      0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+  ptxas info    : Used 19 registers, 336 bytes cmem[0], 8 bytes cmem[2]
+  ptxas info    : Function properties for cudaFuncGetAttributes
+      8 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+  ptxas info    : Function properties for __iAtomicAdd
+      0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+  ptxas info    : Function properties for cudaOccupancyMaxActiveBlocksPerMultiprocessorWithFlags
+      0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+  ptxas info    : Compiling entry function '_Z13assign_labelsPfS_PiS0_' for 'sm_52'
+  ptxas info    : Function properties for _Z13assign_labelsPfS_PiS0_
+      0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+  ptxas info    : Used 19 registers, 7232 bytes smem, 352 bytes cmem[0]
+  ptxas info    : Function properties for cudaGetDevice
+      0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+  ptxas info    : Function properties for _ZN64_INTERNAL_42_tmpxft_000080f4_00000000_10_kmeans_cpp1_ii_5558a91d9atomicAddEPff
+      8 bytes stack frame, 8 bytes spill stores, 8 bytes spill loads
+  ptxas info    : Function properties for clock32
+      0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+C:/Users/z7qian/Downloads/project_kmeans_v5/project_kmeans/Src/kmeans/kmeans.cu(25): warning : variable "s_mean" was declared but never referenced
+  
+C:/Users/z7qian/Downloads/project_kmeans_v5/project_kmeans/Src/kmeans/kmeans.cu(27): warning : variable "tid" was declared but never referenced
+  
+  kmeans.cu
+c:\users\z7qian\downloads\project_kmeans_v5\project_kmeans\src\kmeans\MNIST.h(145): warning C4244: 'initializing': conversion from 'const float' to 'const short', possible loss of data
+C:/Users/z7qian/Downloads/project_kmeans_v5/project_kmeans/Src/kmeans/kmeans.cu(152): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:/Users/z7qian/Downloads/project_kmeans_v5/project_kmeans/Src/kmeans/kmeans.cu(103): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'unsigned __int64'
+  C:/Users/z7qian/Downloads/project_kmeans_v5/project_kmeans/Src/kmeans/kmeans.cu(103): note: consider using '%zd' in the format string
+  Building NVCC intermediate link file Src/kmeans/CMakeFiles/kmeans.dir/Debug/kmeans_intermediate_link.obj
+  kmeans_generated_kmeans.cu.obj
+  kmeans.vcxproj -> C:\Users\z7qian\Downloads\project_kmeans_v5\project_kmeans\build\Src\kmeans\Debug\kmeans.exe
+  kmeans.vcxproj -> C:/Users/z7qian/Downloads/project_kmeans_v5/project_kmeans/build/Src/kmeans/Debug/kmeans.pdb (Full PDB)

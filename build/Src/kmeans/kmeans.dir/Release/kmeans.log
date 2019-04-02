@@ -1,0 +1,20 @@
+﻿  Building NVCC (Device) object Src/kmeans/CMakeFiles/kmeans.dir/Release/kmeans_generated_kmeans.cu.obj
+  kmeans.cu
+C:/Users/z7qian/Downloads/project_kmeans_v5/project_kmeans/Src/kmeans/kmeans.cu(25): warning : variable "s_mean" was declared but never referenced
+  
+C:/Users/z7qian/Downloads/project_kmeans_v5/project_kmeans/Src/kmeans/kmeans.cu(27): warning : variable "tid" was declared but never referenced
+  
+C:/Users/z7qian/Downloads/project_kmeans_v5/project_kmeans/Src/kmeans/kmeans.cu(25): warning : variable "s_mean" was declared but never referenced
+  
+C:/Users/z7qian/Downloads/project_kmeans_v5/project_kmeans/Src/kmeans/kmeans.cu(27): warning : variable "tid" was declared but never referenced
+  
+  kmeans.cu
+c:\users\z7qian\downloads\project_kmeans_v5\project_kmeans\src\kmeans\MNIST.h(145): warning C4244: 'initializing': conversion from 'const float' to 'const short', possible loss of data
+C:/Users/z7qian/Downloads/project_kmeans_v5/project_kmeans/Src/kmeans/kmeans.cu(152): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:/Users/z7qian/Downloads/project_kmeans_v5/project_kmeans/Src/kmeans/kmeans.cu(103): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'unsigned __int64'
+  C:/Users/z7qian/Downloads/project_kmeans_v5/project_kmeans/Src/kmeans/kmeans.cu(103): note: consider using '%zd' in the format string
+C:/Users/z7qian/Downloads/project_kmeans_v5/project_kmeans/Src/kmeans/kmeans.cu(201): warning C4778: 'printf' : unterminated format string '%\n'
+  Building NVCC intermediate link file Src/kmeans/CMakeFiles/kmeans.dir/Release/kmeans_intermediate_link.obj
+  kmeans_generated_kmeans.cu.obj
+     Creating library C:/Users/z7qian/Downloads/project_kmeans_v5/project_kmeans/build/Src/kmeans/Release/kmeans.lib and object C:/Users/z7qian/Downloads/project_kmeans_v5/project_kmeans/build/Src/kmeans/Release/kmeans.exp
+  kmeans.vcxproj -> C:\Users\z7qian\Downloads\project_kmeans_v5\project_kmeans\build\Src\kmeans\Release\kmeans.exe

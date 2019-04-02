@@ -1,0 +1,5 @@
+# CMake generation dependency list for this directory.
+C:/Users/z7qian/Downloads/project_kmeans_v5/project_kmeans/Src/kmeans/CMakeLists.txt
+C:/Users/z7qian/Downloads/project_kmeans_v5/project_kmeans/build/Src/kmeans/CMakeFiles/kmeans.dir/kmeans_generated_kmeans.cu.obj.depend
+C:/Program Files/CMake/share/cmake-3.10/Modules/FindCUDA/run_nvcc.cmake
+C:/Users/z7qian/Downloads/project_kmeans_v5/project_kmeans/build/Src/kmeans/CMakeFiles/kmeans.dir/kmeans_generated_kmeans.cu.obj.cmake.pre-gen
